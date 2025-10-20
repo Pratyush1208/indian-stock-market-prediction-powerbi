@@ -1,0 +1,5 @@
+data/
+model/
+dashboard/
+outputs/
+README.md
